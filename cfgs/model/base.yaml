@@ -1,4 +1,4 @@
-hidden_dim: 256 # try 32, 64, 256, 512
+hidden_dim: 1024 # try 32, 64, 256, 512
 map_attr: 3
 num_road_types: 8
 no_actions: False

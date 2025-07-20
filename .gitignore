@@ -2,3 +2,9 @@ build/
 nocturne.egg-info/
 *.so
 *.out
+env
+__pycache__
+checkpoints
+slurm_logs
+lightning_logs
+ctrl_sim_dataset
