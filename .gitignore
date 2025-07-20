@@ -8,3 +8,4 @@ checkpoints
 slurm_logs
 lightning_logs
 ctrl_sim_dataset
+movie_frames

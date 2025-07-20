@@ -2,7 +2,7 @@ defaults:
 - base
 
 run_name: dt
-model_path: /home/checkpoints/${eval.policy.run_name}/model.ckpt
+model_path: /workspace/ctrl_sim/checkpoints/${eval.policy.run_name}/model.ckpt
 action_temperature: 1.0
 nucleus_sampling: False
 nucleus_threshold: 0.8

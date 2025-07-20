@@ -26,7 +26,8 @@ RUN python3 -m pip install -U pip && python3 -m pip install \
     pytorch-lightning \
     torch_geometric \
     einops \
-    torch_scatter
+    torch_scatter \
+    moviepy
 
 RUN apt update && apt install -y \
     libx11-dev \

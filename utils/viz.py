@@ -12,7 +12,7 @@ import matplotlib.transforms as transforms
 import pickle
 import random
 import subprocess
-from moviepy.editor import ImageSequenceClip
+from moviepy import ImageSequenceClip
 from utils.data import *
 from utils.geometry import *
 
